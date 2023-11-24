@@ -1,1 +1,2 @@
+![Untitled design](https://github.com/CalcuSync/CalcuSync/assets/116606573/f5304fa0-2ffe-46c0-ac4b-fbb97f8a5278)
 CalcuSync is a multi-usage calculator. It combines simple, everyday calculations with case-specific calculations. It includes addition, subtraction, etc. But it also include functions that deal with distance on a 2D scale and 3D scale, slope, etc. The calculator is a terminal-based application.
